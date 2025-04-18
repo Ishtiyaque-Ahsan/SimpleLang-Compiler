@@ -75,7 +75,6 @@
      printf("Token: %s ('%s')\n", typeNames[token.type], token.text);
  }
  
-
   // Lexer - Get next token from input file
  Token getNextToken(FILE *file) {
      // If we have a token pushed back, return that first
