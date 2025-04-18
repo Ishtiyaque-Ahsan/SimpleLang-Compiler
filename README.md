@@ -1,3 +1,5 @@
+Please review Result_Explanation.txt for explanation of format of input and resultant output code.
+
 Steps to run the compiler:
 
 
